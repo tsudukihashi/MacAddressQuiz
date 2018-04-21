@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e89f6b1d3d1c74370bd64e8fef3812ab
+timeCreated: 1523727613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: amemuchigothicmono-04
+  fontNames:
+  - amemuchigothicmono-04
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

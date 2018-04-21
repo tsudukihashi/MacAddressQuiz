@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d70c1e6a6a42d45989deb896387780b9
+timeCreated: 1523727205
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: maruten
+  fontNames:
+  - maruten
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
